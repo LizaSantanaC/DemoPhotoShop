@@ -1,0 +1,4 @@
+# ninja log v5
+0	494	1590804701	CMakeFiles/dummy-lib.dir/dummy-lib.cpp.o	800aad59422454e9
+494	519	1590804701	/home/liza/AndroidStudioProjects/DemoPhotoShop/PhotoShop/build/intermediates/cmake/debug/obj/x86/libdummy-lib.so	11335ede4da36b39
+0	6	0	clean	7694f66d6e01d69
